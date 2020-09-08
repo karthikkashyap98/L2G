@@ -1,0 +1,13 @@
+{
+    "name": "LeetCode To Github",
+    "version": "1.0",
+    "description": "Push your leetcode solution to github",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs",
+        "<all_urls>"
+    ],
+    "manifest_version": 2
+}

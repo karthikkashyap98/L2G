@@ -1,0 +1,6 @@
+node_modules
+config/config2.js
+src/cert.pem
+src/cert.key
+src/utils/querytest.js
+src/utils/test.js
