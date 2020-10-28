@@ -21,7 +21,7 @@ An application to push your leetcode solutions to github in an instant. A chrome
 
 # Steps to use the application
 1) Run Mongo Server
-2) Follow this link to run Mongo Server. ```https://medium.com/stackfame/run-mongodb-as-a-service-in-windows-b0acd3a4b712```
+2) Follow this link to run Mongo Server. https://medium.com/stackfame/run-mongodb-as-a-service-in-windows-b0acd3a4b712
 3) Start the server. 
 4) Run ```npm run start``` on terminal from project root
 5) Choose the problem you want to push. Scroll down till end of solution.
